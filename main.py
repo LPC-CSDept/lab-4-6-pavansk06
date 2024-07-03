@@ -4,7 +4,7 @@ def main():
     for i in range(N):
         for j in range(i + 1):  # Complete for loop statement
             print(f'({i}, {j})', end=' ')
-             = iternum + 1
+            iternum = iternum + 1
         
         print()  
 
